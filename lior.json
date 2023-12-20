@@ -1,0 +1,13 @@
+[
+  {
+    "id": "factory/inj1sg3yjgjlwhtrepeuusj4jwv209rh6cmk882cw3/LIOR",
+    "entity": "LIOR",
+    "name": "LIOR",
+    "symbol": "LIOR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "420000000000",
+    "total_supply": "420000000000",
+    "icon": "https://raw.githubusercontent.com/InjectiveCat/injective-ts/dev/packages/token-metadata/src/images/lior.png"
+  }
+]
